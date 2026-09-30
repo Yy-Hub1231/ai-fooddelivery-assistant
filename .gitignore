@@ -1,0 +1,28 @@
+# Java Maven
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/
+
+### VS Code ###
+.vscode/
+
+# 日志文件
+*.log
+
+# 系统缓存
+.DS_Store
+Thumbs.db
